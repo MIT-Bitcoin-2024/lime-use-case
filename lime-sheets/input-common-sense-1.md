@@ -34,3 +34,13 @@ if a |EVAL-ENDCHAR|
 woodchuck
 could chuck
 wood|EVAL-ENDCHAR|
+
+## Q-3
+#### question
+Which of the following is higher in protein?
+A) Beef
+B) Bread
+C) Pasta
+
+#### answer
+A) Beef<EVAL-ENDCHAR>
